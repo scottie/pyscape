@@ -7,7 +7,7 @@ import time
 #user config
 username = "vual1z"
 username2 = "hotmail.com"
-password = "after76n"
+password = "passsword"
 
 #declaired varibles
 
